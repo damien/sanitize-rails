@@ -1,6 +1,10 @@
 language: ruby
 cache: bundler
+
 rvm:
 - 2.1.1
 - 2.0.0
 - 1.9.3
+
+env:
+  secure: "mBrPe+sGJnMaDIpMb8smhsfOhcyYGM2t2b+AR0ZX9wpu/k8sQixudtONf/+iO0zM1+U2lGwynWwXiLXw2QUirMBB2ZC2cRiDX/UpcgBwAoBf20jaGqvAXi1yzVAQC8e70RPt7xepbvXKEwrOe8AWmVM1OW41CpEGu/2kQCY+Hh0="
