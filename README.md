@@ -1,5 +1,11 @@
-Sanitize-Rails - sanitize .. on Rails. [![Build Status](https://travis-ci.org/vjt/sanitize-rails.png)](https://travis-ci.org/vjt/sanitize-rails)
+Sanitize-Rails - sanitize .. on Rails.
 ======================================
+
+Build Status
+------------
+
+[![Build Status](https://travis-ci.org/vjt/sanitize-rails.png)](https://travis-ci.org/vjt/sanitize-rails)
+[![Code Climate](https://codeclimate.com/github/damien/sanitize-rails.png)](https://codeclimate.com/github/damien/sanitize-rails)
 
 Installation
 ------------
